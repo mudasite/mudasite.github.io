@@ -9,7 +9,7 @@
 title: muda.site
 email: zipperpull.23@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  無駄なサイト : 中身などない
+  無駄なサイト : 内容などない
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.muda.site" # the base hostname & protocol for your site
 twitter_username: zipperpull
